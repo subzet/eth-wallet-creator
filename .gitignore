@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Editor files
+.vscode/
+*.log
